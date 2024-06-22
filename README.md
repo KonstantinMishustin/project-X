@@ -2,3 +2,5 @@
 Телеграмм бот, который банит участников по команде /ban
 
 Author - Kostyan
+
+All rights reserved)
